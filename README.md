@@ -185,5 +185,5 @@ Server Management Studio.
 
 ![0000000666666](https://github.com/user-attachments/assets/79945f17-3809-40f5-879a-ed299366b442)
 
-<img width="612" alt="4545454" src="https://github.com/user-attachments/assets/fb24189d-5381-44ed-aed4-e863f319f8fb">
+<img width="501" alt="543534ddd" src="https://github.com/user-attachments/assets/8c07ca57-8984-4509-9c6d-1eeff909fbcc">
 
